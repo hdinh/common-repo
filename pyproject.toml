@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "common-repo"
+name = "common"
 version = "0.1.0"
 description = ""
 authors = ["Hung Dinh <hung.dinh@crossfit.com>"]
